@@ -1,7 +1,13 @@
 # E-Commerce Website (MEAN Stack)
 
 ## Overview
-This is a full-stack e-commerce website built using the MEAN stack, featuring separate modules for administrators and users. The project consists of:
+This project is a comprehensive e-commerce platform designed to provide a seamless shopping experience for users while offering robust administrative tools for managing the store. Built using the MEAN stack, the platform includes two distinct modules:
+- **User Module:** Allows customers to browse products, add items to their cart, manage orders, and complete purchases through a secure checkout process.
+- **Admin Module:** Provides administrators with full control over user accounts, product listings, categories, orders, and inventory. This allows for efficient management of the store's backend operations, ensuring smooth day-to-day operations.
+
+The project is designed for scalability and flexibility, making it easy to extend and customize based on business needs.
+
+The project consists of:
 - **Backend:** Node.js, Express, MongoDB
 - **Frontend:** Angular (Admin and User modules)
 
