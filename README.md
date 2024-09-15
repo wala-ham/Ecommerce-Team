@@ -1,5 +1,6 @@
 ## Website Preview
-![E-commerce Website Preview]([https://example.com/your-image-url](https://repository-images.githubusercontent.com/456963513/82528385-a73f-488f-9003-513321283a6b))
+![E-commerce Website Preview](https://repository-images.githubusercontent.com/456963513/82528385-a73f-488f-9003-513321283a6b)
+
 # E-Commerce Website (MEAN Stack)
 
 ## Overview
