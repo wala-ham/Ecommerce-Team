@@ -34,7 +34,7 @@ The project consists of:
 
 ## Installation
 
-### Backend
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/wala-ham/Ecommerce-Team.git
